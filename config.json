@@ -14,5 +14,5 @@
 	modsConfig:"https://github.com/kmoulins/launcher-skyzone/blob/master/mods_config.zip",
 	forge:"https://github.com/kmoulins/launcher-skyzone/blob/master/forge-1.12.2.jar",
 	skyzoneJson:"https://github.com/kmoulins/launcher-skyzone/blob/master/1.12.2-skyzone.json",
-	resourcepack:"file:///C:/Users/Megaport/Desktop/launcher/resourcepack.zip"
+	resourcepack:"https://github.com/kmoulins/launcher-skyzone/blob/master/resourcepack.zip"
 }
