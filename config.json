@@ -6,13 +6,13 @@
 			couleur:"0xFF0000"
 		}
 	},
-	news:"https://github.com/kmoulins/launcher-skyzone/blob/master/news.txt",
+	news:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/news.txt",
 	discord:"https://discord.gg/SkyZone",
 	website:"http://example.com",
-	menuTemplate:"https://github.com/kmoulins/launcher-skyzone/blob/master/mainmenu.json.template",
-	mods:"https://github.com/kmoulins/launcher-skyzone/blob/master/mods.zip",
-	modsConfig:"https://github.com/kmoulins/launcher-skyzone/blob/master/mods_config.zip",
-	forge:"https://github.com/kmoulins/launcher-skyzone/blob/master/forge-1.12.2.jar",
-	skyzoneJson:"https://github.com/kmoulins/launcher-skyzone/blob/master/1.12.2-skyzone.json",
-	resourcepack:"https://github.com/kmoulins/launcher-skyzone/blob/master/resourcepack.zip"
+	menuTemplate:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/mainmenu.json.template",
+	mods:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/mods.zip",
+	modsConfig:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/mods_config.zip",
+	forge:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/forge-1.12.2.jar",
+	skyzoneJson:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/1.12.2-skyzone.json",
+	resourcepack:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/resourcepack.zip"
 }
