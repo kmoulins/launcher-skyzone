@@ -6,7 +6,7 @@
 			couleur:"0xFF0000"
 		}
 	},
-	news:"file:///C:/Users/Megaport/Desktop/launcher/news.txt",
+	news:"https://github.com/kmoulins/launcher-skyzone/blob/master/news.txt",
 	discord:"https://discord.gg/SkyZone",
 	website:"http://example.com",
 	menuTemplate:"https://github.com/kmoulins/launcher-skyzone/blob/master/mainmenu.json.template",
