@@ -10,7 +10,7 @@
 	discord:"https://discord.gg/SkyZone",
 	website:"http://example.com",
 	menuTemplate:"https://github.com/kmoulins/launcher-skyzone/blob/master/mainmenu.json.template",
-	mods:"file:///C:/Users/Megaport/Desktop/launcher/mods.zip",
+	mods:"https://github.com/kmoulins/launcher-skyzone/blob/master/mods.zip",
 	modsConfig:"file:///C:/Users/Megaport/Desktop/launcher/mods_config.zip",
 	forge:"https://github.com/kmoulins/launcher-skyzone/blob/master/forge-1.12.2.jar",
 	skyzoneJson:"https://github.com/kmoulins/launcher-skyzone/blob/master/1.12.2-skyzone.json",
