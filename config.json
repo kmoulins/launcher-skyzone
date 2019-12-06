@@ -12,7 +12,7 @@
 	menuTemplate:"file:///C:/Users/Megaport/Desktop/launcher/mainmenu.json.template",
 	mods:"file:///C:/Users/Megaport/Desktop/launcher/mods.zip",
 	modsConfig:"file:///C:/Users/Megaport/Desktop/launcher/mods_config.zip",
-	forge:"file:///C:/Users/Megaport/Desktop/launcher/forge-1.12.2.jar",
+	forge:"https://github.com/kmoulins/launcher-skyzone/blob/master/forge-1.12.2.jar",
 	skyzoneJson:"file:///C:/Users/Megaport/Desktop/launcher/1.12.2-skyzone.json",
 	resourcepack:"file:///C:/Users/Megaport/Desktop/launcher/resourcepack.zip"
 }
