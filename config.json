@@ -11,7 +11,7 @@
 	website:"http://example.com",
 	menuTemplate:"https://github.com/kmoulins/launcher-skyzone/blob/master/mainmenu.json.template",
 	mods:"https://github.com/kmoulins/launcher-skyzone/blob/master/mods.zip",
-	modsConfig:"file:///C:/Users/Megaport/Desktop/launcher/mods_config.zip",
+	modsConfig:"https://github.com/kmoulins/launcher-skyzone/blob/master/mods_config.zip",
 	forge:"https://github.com/kmoulins/launcher-skyzone/blob/master/forge-1.12.2.jar",
 	skyzoneJson:"https://github.com/kmoulins/launcher-skyzone/blob/master/1.12.2-skyzone.json",
 	resourcepack:"file:///C:/Users/Megaport/Desktop/launcher/resourcepack.zip"
