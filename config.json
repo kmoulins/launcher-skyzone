@@ -9,7 +9,7 @@
 	news:"file:///C:/Users/Megaport/Desktop/launcher/news.txt",
 	discord:"https://discord.gg/SkyZone",
 	website:"http://example.com",
-	menuTemplate:"file:///C:/Users/Megaport/Desktop/launcher/mainmenu.json.template",
+	menuTemplate:"https://github.com/kmoulins/launcher-skyzone/blob/master/mainmenu.json.template",
 	mods:"file:///C:/Users/Megaport/Desktop/launcher/mods.zip",
 	modsConfig:"file:///C:/Users/Megaport/Desktop/launcher/mods_config.zip",
 	forge:"https://github.com/kmoulins/launcher-skyzone/blob/master/forge-1.12.2.jar",
