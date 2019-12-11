@@ -8,7 +8,7 @@
 	},
 	news:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/news.txt",
 	discord:"https://discord.gg/SkyZone",
-	website:"http://example.com",
+	website:"http://skyzone.buycraft.net/",
 	menuTemplate:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/mainmenu.json.template",
 	mods:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/mods.zip",
 	modsConfig:"https://raw.githubusercontent.com/kmoulins/launcher-skyzone/master/mods_config.zip",
